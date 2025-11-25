@@ -1,2 +1,5 @@
 # about-me
-- idk what i'm doing 
+- I'm a student
+- Interested in tech
+- STEM
+- Engineering
